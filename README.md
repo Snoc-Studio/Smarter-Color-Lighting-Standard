@@ -24,3 +24,5 @@ So, I keep asking myself: what would it take for the average Joe to find it wort
 and how can we make color lighting much simpler (even for comercial prodcuts).
 
 Enter this new discussion about a possible standard.
+
+**Please comments on the Standard Level file
