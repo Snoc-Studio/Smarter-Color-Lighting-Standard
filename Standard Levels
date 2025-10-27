@@ -1,0 +1,66 @@
+I think a good starting point would be to have a tiered standard (Level 1, 2, 3) in which Level 3 would be the ultimate goal.
+Here are the specifications I was thinking of for each level. Let's discuss, and also keep in mind the ultimate objective is to offer a personalized but super simple experience. Therefore, I think it's important to keep the UX as oriented as possible toward the average Joe. This doesn't mean we can't require manufacturers to offer highly personalizable settings at some levels.
+
+
+Level 1:
+
+  Hardware:
+    Bluetooth provisioning
+    Wi-Fi connection
+    RGBW
+    90% CRI
+    600 lm total
+    80 lm per watt
+    Microphone for sound reaction effects
+
+  Software:
+    100 preconfigured scenarios easily programmable for a specific period of the year
+
+  Misc:
+    Always prefer indirect lighting (or diffused with 180-degree source) for a less toyish/Las Vegas/gamer style and a more "mature" architectural aesthetic
+    Low and subtle effect animation speeds preferred (for the same reasons)
+
+
+Level 2:
+
+  Hardware:
+    Bluetooth provisioning
+    Wi-Fi connection
+  * RGB+CCT
+    90% CRI
+  * 800 lm total
+  * 100 lm per watt
+    Microphone for sound reaction effects
+
+  Software:
+  * 200 preconfigured scenarios easily programmable for a specific period of the year
+  * Custom-generated scenarios based on consumer preferences
+  * Predefined, hyper-calibrated unique color palette
+
+  Misc:
+    Always prefer indirect lighting (or diffused with 180-degree source) for a less toyish/Las Vegas/gamer style and a more "mature" architectural aesthetic
+    Low and subtle effect animation speeds preferred (for the same reasons)
+
+
+Level 3:
+
+  Hardware:
+    Bluetooth provisioning
+    Wi-Fi connection
+    RGB+CCT
+  * 95% CRI
+  * 1000 lm total
+  * 120 lm per watt
+    Microphone for sound reaction effects
+
+  Software:
+  * 300 preconfigured scenarios easily programmable for a specific period of the year
+    Custom-generated scenarios based on consumer preferences
+    Predefined, hyper-calibrated unique color palette
+
+  Hardware/Software (UX):
+  *** Environment aware: the product has access to information about what it's lighting up, to adjust coloration and intensity for every season and weather condition
+
+  Misc:
+    Always prefer indirect lighting (or diffused with 180-degree source) for a less toyish/Las Vegas/gamer style and a more "mature" architectural aesthetic
+    Low and subtle effect animation speeds preferred (for the same reasons)
