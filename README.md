@@ -16,13 +16,13 @@ I keep coming back to one simple factâ€”maybe because I'm now a middle-aged manâ
 It's nice and impressive when you've just installed your new set of lights for the first time,
 but unless it's the holiday season or another festive time (like Halloween), nobody takes the time to change the colors of their setup.
 
-Furthermore, when shopping for a new light, the average Joe sees too many technical specifications and communications protols and standards on the box to know what each really means for them.
+Furthermore, when shopping for a new light, the average Joe sees too many technical specifications (CRI, RGB, RGBW, RGBWW, RGBCW, IC, RGB+CCT, addressable LED, LED per meter, lumen, watt, amp, volt, etc.), communications protols (zigbee, z-wave, thread, wifi, BLE, bluetooth, etc.) and ecosystems (Home Assistant, Google Home, Apple Homekit, Alexa, Tuya, etc.) on the box to know what each really means for them.
 
 However, when I drive near the Champlain Bridge at night (I live near Montreal), I can't help but think that the lighting on this piece of architecture is really cool.
 
 So, I keep asking myself: what would it take for the average Joe to find it worth the trouble to install color lighting on their residence,
 and how can we make color lighting much simpler (even for comercial prodcuts).
 
-Enter this new discussion about a possible standard.
+Enter this new discussion about a possible standard. The goal here is not to over simplify but to make the color lighting product much more approchable and simple (automated based on users taste).
 
 **Please comments on the Standard Level file
