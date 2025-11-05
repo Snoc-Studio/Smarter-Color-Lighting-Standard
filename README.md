@@ -16,7 +16,7 @@ I keep coming back to one simple factâ€”maybe because I'm now a middle-aged manâ
 It's nice and impressive when you've just installed your new set of lights for the first time,
 but unless it's the holiday season or another festive time (like Halloween), nobody takes the time to change the colors of their setup.
 
-Furthermore, when shopping for a new light, the average Joe sees too many technical specifications on the box to know what each really means for them.
+Furthermore, when shopping for a new light, the average Joe sees too many technical specifications and communications protols and standards on the box to know what each really means for them.
 
 However, when I drive near the Champlain Bridge at night (I live near Montreal), I can't help but think that the lighting on this piece of architecture is really cool.
 
